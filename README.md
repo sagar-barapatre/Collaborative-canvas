@@ -4,8 +4,6 @@ This collaborative whiteboard application allows multiple users to communicate i
 
 The project is built with NodeJS and SocketIO for the server and uses jQuery for the client-side code.
 
-A live demo of the project can be found [here](http://shrouded-mesa-58036.herokuapp.com/).
-
 # Features
 - Draw  - you can perform a free-hand drawing on the whiteboard with a brush utensil, using your mouse. Currently, only one brush size and color are supported.
 - Erase  - you can erase any free-hand drawing on the whiteboard with an eraser utensil, using your mouse. Currently, only one eraser size is supported.
